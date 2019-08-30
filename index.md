@@ -1,4 +1,4 @@
-## Cosimo Gonnelli
+
 
 Graduate Student in Computer Science at Portland State University
 
