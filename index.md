@@ -2,5 +2,5 @@
 
 Graduate Student in Computer Science at Portland State University
 
-download here my resume
+download my resume here
 
